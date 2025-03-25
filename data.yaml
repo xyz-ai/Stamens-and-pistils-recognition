@@ -1,0 +1,6 @@
+path: data/split  # 数据集路径
+train: images/train  # 训练集图片路径
+val: images/val  # 验证集图片路径
+test: images/test  # 测试集图片路径 (可选)
+names:
+  0: tassel  # 雄穗类别
